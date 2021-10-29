@@ -14,6 +14,6 @@ var div = function(num1, num2) {
 	print("QUOTIENT : " + (num1 / num2));
 }
 
-var msg=function(){
+var message=function(){
 print("SUCCESSFULLY PRINTED!!!");
 }
