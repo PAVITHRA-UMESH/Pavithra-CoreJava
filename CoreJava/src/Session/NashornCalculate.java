@@ -36,7 +36,7 @@ public class NashornCalculate {
 			invocable.invokeFunction("div", num1, 1); // Default procedure
 		else
 			invocable.invokeFunction("div", num1, num2);
-		invocable.invokeFunction("msg");
+		invocable.invokeFunction("message");
 	}
 
 }
